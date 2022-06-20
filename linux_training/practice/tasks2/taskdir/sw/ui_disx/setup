@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Prepare neccessary setup 
+  echo "sw_all1x"

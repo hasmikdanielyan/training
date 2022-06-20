@@ -1,0 +1,73 @@
+########################################################################
+# All exercises below do as interactive work in linux shell
+# Define linux command calls to perform the isntructions below 
+########################################################################
+
+
+
+########################################################################
+# 1. Get some info
+#     -username 
+#     -hostname 
+#     -current shell 
+#     -date/time 
+#     -date as "day-month-year"
+#     -date as seconds only 
+#     -current directory 
+#     -content of your home directory 
+#     -existence of the file named ".bashrc" in your home directory 
+#     -get statistics of your .bashrc file 
+#     -how many chars/words/lines are in your .bashrc file 
+#     -how many hidden items (files, dirs, ...) do you have in your home 
+#     -how many hidden directories do you have in your home 
+
+#########################################################################
+# 2. Create/Copy/Edit 
+#    -cd to your home dir
+#    -remove the dir named "training"  independently from existence 
+#    -create a dir "training"
+#    -copy all content of "linux_training" under  the dir "training"
+#    -go to "training/practice/tasks1" dir
+#    -remove files with the extension xml, csv, and log 
+#    -remove all files with the name starting with "ba"
+#    -make all files executable
+#    -remove all content of "training" dir 
+#    -create a new file named "hello.txt" with the content "Hello World !"
+#    -copy all content of "linux_training" dir under the "training"
+#    -list the content of "practice/tasks1"  directory with human-readable file size and sorted by last modified
+#    -list the content of "practice/tasks1"  directory with human-readable file size, sorted by last modified without group nor owner 
+#    -list the content of "practice/tasks1"  folder by separating entries by comma and in reverse order 
+#    -list the content of "practice/tasks1"  directory in a single column by file extension
+#    -list all hidden files in "practice/tasks2/taskdir"  directory
+#    -get the length of the longest line in "tasks1/people.csv" file
+#    -rename all "*.pdf" files under "task1" dir to "*.pdf_backup"
+#    -transfer the "practice/tasks2/taskdir/dir1" directory into "practice/tasks2/taskdir/sw" 
+#    - display the list of all users in a system registered in /etc/passwd file and their login shell 
+
+
+#    - display the content of /etc/host.conf and /etc/netconfig files with numbered lines
+#    - get the count of users from the /etc/passwd 
+#    - print the length of the longest line in /etc/passwd 
+#    - display the first 10 lines of /etc/passwd and /etc/netconfig lines
+#    - display the last 3 lines of /etc/netconfig and /etc/passwd files
+#    - create "project/scripts/python" and "project/assets/images" directories under "training" directory
+#    - create "project/scripts/python/test.py" and "project/assets/images/image.png" files    
+#    - go to "scripts" directory and rename "test.py" to "script.py"
+#    - rename "images" directory to "icons"
+#    - get the current folder name and its' path 
+#    - delete images.png file and scripts folder
+#    - remove project directory
+#
+#
+# 3. Permissions/access 
+#   
+#   -create "tmp" directory and "tmp/txt" file under "trainings" directory
+#   -get permissions of "tmp" folder and "txt" file inside the latter
+#   -grant "txt" file write permission for other users
+#   -leave only read access for "tmp" dir for all users
+#   -create "txt1" file inside "tmp" folder
+#   -add execute permission to "tmp" folder for owner
+#   -create "txt2" file inside "tmp" folder
+#   -open all permissions for "tmp" folder and its content 
+#   
+
