@@ -1,0 +1,24 @@
+1. Get some info
+#     -username 
+whoami
+#     -hostname 
+hostname 
+#     -current shell 
+$SHELL
+#     -date/time 
+ date
+#     -date as "day-month-year"
+date -D
+#     -date as seconds only 
+#     -current directory 
+$pwd
+#     -content of your home directory 
+$ls
+#     -existence of the file named ".bashrc" in your home directory 
+#     -get statistics of your .bashrc file 
+$stat .bashrc
+#     -how many chars/words/lines are in your .bashrc file 
+$ wc -l .bashrc
+#     -how many hidden items (files, dirs, ...) do you have in your home 
+lsa-a
+#     -how many hidden directories do you have in your home 
